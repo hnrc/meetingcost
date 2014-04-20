@@ -115,3 +115,12 @@ a {
 .control {
   padding: 0.5rem;
 }
+
+.wat {
+  padding: 0.5rem;
+  font-size: 1.8rem;
+}
+
+.wat a {
+  color: #333;
+}
