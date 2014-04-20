@@ -25,19 +25,19 @@ var Cost = new (function() {
 });
 
 $(document).ready(function() {
-  new Dragdealer('salary-slider', {
+  new Dragdealer("salary-slider", {
     x: 0.1,
     animationCallback: function(x, y) {
       var val = Math.round(x * 2000);
-      $('#salary-slider .value').text(val);
+      $("#salary-slider .value").text(val);
       Cost.setSalary(val);
     }
   });
-  new Dragdealer('attendants-slider', {
+  new Dragdealer("attendants-slider", {
     x: 0.2,
     animationCallback: function(x, y) {
       var val = Math.round(x * 20);
-      $('#attendants-slider .value').text(val);
+      $("#attendants-slider .value").text(val);
       Cost.setAttendants(val);
     }
   });

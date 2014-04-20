@@ -5,7 +5,7 @@ html {
 body {
   background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAKklEQVQIW2M8fXr9TFlpGQZ0wPji2emZGKJAAeIkHj99wgAzljgdyHYBABggFjORqXafAAAAAElFTkSuQmCC) repeat;
   color: #333;
-  font-family: 'Ropa Sans', sans-serif;
+  font-family: "Ropa Sans", sans-serif;
   padding-top: 3rem;
 }
 
@@ -19,7 +19,7 @@ a {
   background-color: #333;
   color: #ccc;
   font-size: 1.2rem;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   width: 100%;
   top: 0;
   right: 0;
