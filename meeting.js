@@ -36,7 +36,7 @@ $(document).ready(function() {
   new Dragdealer("attendants-slider", {
     x: 0.2,
     animationCallback: function(x, y) {
-      var val = Math.round(x * 20);
+      var val = Math.round(x * 100);
       $("#attendants-slider .value").text(val);
       Cost.setAttendants(val);
     }
