@@ -8,3 +8,4 @@ Built with the following libraries:
 * https://github.com/jchavannes/jquery-timer
 * https://github.com/davatron5000/FitText.js
 * https://github.com/skidding/dragdealer
+* https://github.com/allmarkedup/purl
