@@ -130,3 +130,7 @@ code {
 .wat a {
   color: #333;
 }
+
+.wat p {
+  margin: 0;
+}
